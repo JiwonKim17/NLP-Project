@@ -1,8 +1,6 @@
 # NLP-Project
 
-FINAL PROJECT - Exploration of COVID-19 Discourse on Twitter: American Politician Edition
-
-NLP paper written: Final Project NLP Paper.pdf
+Exploration of COVID-19 Discourse on Twitter: American Politician Edition (Final Project NLP Paper.pdf)
 
 This research aims to investigate COVID-19 discourse on Twitter, specifically that of tweets
 made by the US politicians. This is further evaluated through the lens of Twitter data from Republican
